@@ -24,7 +24,7 @@ researcher = {
     "location" : "Durban, KwaZulu-Natal, ZA",
     "focus"    : "Web Application Penetration Testing",
     "approach" : "Responsible Disclosure",
-    "motive"   : "Knowledge, not money",
+    "motive"   : "Continuous learning and real security testing",
     "status"   : "Actively seeking entry-level security role"
 }
 ```

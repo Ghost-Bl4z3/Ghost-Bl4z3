@@ -91,7 +91,7 @@ researcher = {
 
 <p>
   <a href="https://ghost-bl4z3.github.io"><img src="https://img.shields.io/badge/Portfolio-ghost--bl4z3.github.io-00e5ff?style=flat-square&logo=firefox" /></a>
-  <a href="https://www.linkedin.com/in/sphesihle-dwayisa-a400193b1"><img src="https://img.shields.io/badge/sphesihle-dwayisa-a400193b1?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sphesihle-dwayisa-a400193b1"><img src="https://img.shields.io/badge/Linkedn--sphesihle-dwayisa-a400193b1?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ---

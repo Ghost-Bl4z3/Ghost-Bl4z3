@@ -22,7 +22,7 @@ researcher = {
     "name"     : "Sphesihle Dwayisa",
     "alias"    : "Ghost-Bl4z3",
     "location" : "Durban, KwaZulu-Natal, ZA",
-    "focus"    : "Web Application Penetration Testing",
+    "focus"    : "Web Application Penetration Testing", "API Testing",
     "approach" : "Responsible Disclosure",
     "motive"   : "Continuous learning and real security testing",
     "status"   : "Actively seeking entry-level security role"
@@ -40,7 +40,7 @@ researcher = {
 | 3 | Insecure Direct Object Reference (IDOR) on Cart | Broken Access Control | ✅ Disclosed |
 | 4 | Information Disclosure on Forgotten Endpoint | Info Disclosure | ✅ Disclosed |
 | 5 | Resonse reuse to bypass authentication flow | Auth Bypass | ✅ Disclosed |
-| 6 | Token not validated | Anauthorized login | ✅ Disclosed |
+| 6 | Token not validated | Unauthorized login | ✅ Disclosed |
 
 > All findings responsibly disclosed. Research conducted for skill development.
 

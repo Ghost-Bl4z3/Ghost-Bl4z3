@@ -39,6 +39,8 @@ researcher = {
 | 2 | Brute-Force Logic Flaw + Custom Exploit Script | Business Logic | ✅ Disclosed |
 | 3 | Insecure Direct Object Reference (IDOR) on Cart | Broken Access Control | ✅ Disclosed |
 | 4 | Information Disclosure on Forgotten Endpoint | Info Disclosure | ✅ Disclosed |
+| 5 | Resonse reuse to bypass authentication flow | Auth Bypass | ✅ Disclosed |
+| 6 | Token not validated | Anauthorized login | ✅ Disclosed |
 
 > All findings responsibly disclosed. Research conducted for skill development.
 
@@ -89,7 +91,7 @@ researcher = {
 
 <p>
   <a href="https://ghost-bl4z3.github.io"><img src="https://img.shields.io/badge/Portfolio-ghost--bl4z3.github.io-00e5ff?style=flat-square&logo=firefox" /></a>
-  <a href="https://www.linkedin.com/in/sphesihle-dwayisa"><img src="https://img.shields.io/badge/LinkedIn-Sphesihle%20Dwayisa-0077b5?style=flat-square&logo=linkedin" /></a>
+  <a href="www.linkedin.com/in/sphesihle-dwayisa-a400193b1"><img src="https://img.shields.io/badge/LinkedIn-Sphesihle%20Dwayisa-0077b5?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ---

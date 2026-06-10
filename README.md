@@ -36,11 +36,15 @@ researcher = {
 | # | Vulnerability | Type | Status |
 |---|---|---|---|
 | 1 | Authentication & OTP Bypass via Response Manipulation | Auth Bypass | ✅ Disclosed |
-| 2 | Brute-Force Logic Flaw + Custom Exploit Script | Business Logic | ✅ Disclosed |
+| 2 | Lack Of OTP Lifecycle | Otp Bypass | 🟤 Duplicate |
 | 3 | Insecure Direct Object Reference (IDOR) on Cart | Broken Access Control | ✅ Disclosed |
 | 4 | Information Disclosure on Forgotten Endpoint | Info Disclosure | ✅ Disclosed |
 | 5 | Resonse reuse to bypass authentication flow | Auth Bypass | ✅ Disclosed |
 | 6 | Token not validated | Unauthorized login | ✅ Disclosed |
+| 7 | Email Verification Bypass | Authentication Failure | 🟤 Duplicate |
+| 8 | Brute-Force Logic Flaw + Custom Exploit Script | Business Logic | ✅ Disclosed |
+| 9 | Session Fixation | Broken Access Control | 🟤 Duplicate |
+
 
 > All findings responsibly disclosed. Research conducted for skill development.
 

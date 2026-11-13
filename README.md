@@ -50,7 +50,9 @@ researcher = {
 
 | Tool | Description |
 |---|---|---|
+
 | [🔎 source-code-analyzer](https://github.com/Ghost-Bl4z3/source-code-analyzer) | Python reconnaissance tool built to extract URLs, JS files, IPs, emails, and endpoints from web source code |
+
 | [🛡️ cybersecurity-learning](https://github.com/Ghost-Bl4z3/Cybersecurity-Learning) | My main technical portfolio containing structured lab walkthroughs, mobile pentesting proof-of-concepts, Active Directory setups, IT ticketing workflows, and bug bounty write-ups. |
 
 ---

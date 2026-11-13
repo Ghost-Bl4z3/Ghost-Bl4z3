@@ -10,7 +10,7 @@
 <h2 align="center">Sphesihle Dwayisa — Cybersecurity Researcher from Durban 🇿🇦</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Web+Application+Security+Researcher;Responsible+Disclosure+Practitioner;Always+Learning%2C+Always+Breaking+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Mobile+%26+Web+Application+Pentesting;Active+Directory+%26+IT+Systems+Support;Responsible+Disclosure+Practitioner;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---

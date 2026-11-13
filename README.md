@@ -49,6 +49,7 @@ researcher = {
 ### 📂 Featured Repositories
 
 | Tool | Description |
+
 |---|---|---|
 
 | [🔎 source-code-analyzer](https://github.com/Ghost-Bl4z3/source-code-analyzer) | Python reconnaissance tool built to extract URLs, JS files, IPs, emails, and endpoints from web source code |

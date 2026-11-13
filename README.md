@@ -1,16 +1,16 @@
 ```
- ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗    ██████╗ ██╗██╗  ██╗███████╗██████╗
-██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝    ██╔══██╗██║██║  ██║╚════██║╚════██╗
-██║  ███╗███████║██║   ██║███████╗   ██║       ██████╔╝██║███████║    ██╔╝ █████╔╝
-██║   ██║██╔══██║██║   ██║╚════██║   ██║       ██╔══██╗██║╚════██║   ██╔╝ ╚═══██╗
-╚██████╔╝██║  ██║╚██████╔╝███████║   ██║       ██████╔╝██║     ██║   ██║  ██████╔╝
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝ ╚═╝     ╚═╝   ╚═╝  ╚═════╝
+██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗    ██████╗ ██╗   ██╗  ██╗███████╗██████╗ 
+██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝    ██╔══██╗██║  ██║  ██║╚══███╔╝╚════██╗
+██║  ███╗███████║██║   ██║███████╗   ██║       ██████╔╝██║  ███████║  ███╔╝  █████╔╝
+██║   ██║██╔══██║██║   ██║╚════██║   ██║       ██╔══██╗██║  ╚════██║ ███╔╝   ╚═══██╗
+╚██████╔╝██║  ██║╚██████╔╝███████║   ██║       ██████╔╝███████╗  ██║███████╗██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝ ╚══════╝  ╚═╝╚══════╝╚═════╝
 ```
 
-<h2 align="center">Sphesihle Dwayisa — Security Researcher from Durban 🇿🇦</h2>
+<h2 align="center">Sphesihle Dwayisa — Cybersecurity Researcher from Durban 🇿🇦</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Web+Application+Security+Researcher;Responsible+Disclosure+Practitioner;Open+Source+Tool+Developer;Always+Learning%2C+Always+Breaking+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Web+Application+Security+Researcher;Responsible+Disclosure+Practitioner;Always+Learning%2C+Always+Breaking+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,43 +22,40 @@ researcher = {
     "name"     : "Sphesihle Dwayisa",
     "alias"    : "Ghost-Bl4z3",
     "location" : "Durban, KwaZulu-Natal, ZA",
-    "focus"    : "Web Application Penetration Testing", "API Testing",
-    "approach" : "Responsible Disclosure",
-    "motive"   : "Continuous learning and real security testing",
-    "status"   : "Actively seeking entry-level security role"
+    "focus"    : [
+        "Mobile Application Pentesting",
+        "Web & API Security",
+        "Active Directory & IT Support"
+    ],
+    "approach" : "Hands-on labs, responsible disclosure & continuous learning",
+    "status"   : "Open to Cybersecurity / AppSec Internships / junior Penetration tester & Entry Level IT Support Roles"
 }
 ```
 
 ---
 
-### 🐛 Vulnerabilities Found & Disclosed
+### 🔍 What I've Been Working On
 
-| # | Vulnerability | Type | Status |
-|---|---|---|---|
-| 1 | Authentication & OTP Bypass via Response Manipulation | Auth Bypass | ✅ Disclosed |
-| 2 | Lack Of OTP Lifecycle | Otp Bypass | 🟤 Duplicate |
-| 3 | Insecure Direct Object Reference (IDOR) on Cart | Broken Access Control | ✅ Disclosed |
-| 4 | Information Disclosure on Forgotten Endpoint | Info Disclosure | ✅ Disclosed |
-| 5 | Resonse reuse to bypass authentication flow | Auth Bypass | ✅ Disclosed |
-| 6 | Token not validated | Unauthorized login | ✅ Disclosed |
-| 7 | Email Verification Bypass | Authentication Failure | 🟤 Duplicate |
-| 8 | Brute-Force Logic Flaw + Custom Exploit Script | Business Logic | ✅ Disclosed |
-| 9 | Session Fixation | Broken Access Control | 🟤 Duplicate |
+📱 Mobile Application Pentesting: Decompiling Android APKs, managing devices and packages via ADB, and using Frida to inspect runtime behavior and hook native functions.
 
+🌐 Web & API Security: Participating in bug bounty programs, investigating OWASP Top 10 flaws (IDOR, auth bypasses, broken access control), and intercepting traffic with Burp Suite.
 
-> All findings responsibly disclosed. Research conducted for skill development.
+🗄️ Active Directory & Infrastructure: Deploying virtualized Windows Server and client environments in VirtualBox, configuring domain services, and automating tasks with PowerShell.
+
+🎫 IT Support & Helpdesk: Practicing incident intake, ticket prioritization by severity, and SLA tracking using Zendesk and Spiceworks.
 
 ---
 
-### 🛠️ Tools Built
+### 📂 Featured Repositories
 
-| Tool | Description | Language |
+| Tool | Description |
 |---|---|---|
-| [source-code-analyzer](https://github.com/Ghost-Bl4z3/source-code-analyzer) | Recon tool for extracting URLs, JS files, IPs, emails & endpoints from web source | Python |
+| [🔎 source-code-analyzer](https://github.com/Ghost-Bl4z3/source-code-analyzer) | Python reconnaissance tool built to extract URLs, JS files, IPs, emails, and endpoints from web source code |
+| [🛡️ cybersecurity-learning](https://github.com/Ghost-Bl4z3/Cybersecurity-Learning) | My main technical portfolio containing structured lab walkthroughs, mobile pentesting proof-of-concepts, Active Directory setups, IT ticketing workflows, and bug bounty write-ups. |
 
 ---
 
-### 🧪 Labs & Platforms
+### 🧪 Cybersecurity Training Labs & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/TryHackMe-Active-red?style=flat-square&logo=tryhackme" />
@@ -66,6 +63,7 @@ researcher = {
   <img src="https://img.shields.io/badge/PortSwigger-Web%20Academy-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/OWASP-Juice%20Shop-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Metasploitable-2-grey?style=flat-square" />
+ <img src="https://img.shields.io/badge/FridaLabs-Active-orange?style=flat-square" />
 </p>
 
 ---
@@ -94,7 +92,6 @@ researcher = {
 ### 📫 Connect
 
 <p>
-  <a href="https://ghost-bl4z3.github.io"><img src="https://img.shields.io/badge/Portfolio-ghost--bl4z3.github.io-00e5ff?style=flat-square&logo=firefox" /></a>
   <a href="https://www.linkedin.com/in/sphesihle-dwayisa-a400193b1"><img src="https://img.shields.io/badge/Linkedn--sphesihle-dwayisa-a400193b1?style=flat-square&logo=linkedin" /></a>
 </p>
 
